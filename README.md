@@ -1,3 +1,3 @@
 # Discord-Server-Cloner
 
-I am not responsible for any damage caused by this. Use this at your own risk
+## Disclaimer: This tool is provided as-is, without any warranties or guarantees. By using it, you accept full responsibility for any outcomes or issues that may occur. I am not liable for any damages, data loss, or unintended consequences resulting from its use.
