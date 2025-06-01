@@ -9,11 +9,6 @@ This tool is provided as-is, without any warranties or guarantees. By using it, 
 Run the `install.bat` file to set up the environment:
 
 ```bash
-install.bat ```
+install.bat
 
-## start
-
-Run the `statr.bat` file to set up the environment:
-
-```bash
-statr.bat
+start.bat
