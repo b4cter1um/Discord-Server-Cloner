@@ -9,9 +9,9 @@ This tool is provided as-is, without any warranties or guarantees. By using it, 
 Run the `install.bat` file to set up the environment:
 
 ```bash
-install.bat
+install.bat```
 
 After, run the `start.bat` file to start the cloner
 
 ```bash
-start.bat
+start.bat```
