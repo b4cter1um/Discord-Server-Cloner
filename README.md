@@ -10,5 +10,12 @@ Run the `install.bat` file to set up the environment:
 
 ```bash
 install.bat
+```
 
+## Usage
+
+After run the `satrt.bat` file to start the cloner
+
+```bash
 start.bat
+```
